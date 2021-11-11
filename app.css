@@ -1,18 +1,23 @@
-.purple-bg {
+body {
     background: lavender;
 }
 
-.h1 {
-    color: teal;
+h1 {
+    color: purple;
+    text-align: center;
   
 }
-.class {
+.friend {
     background-color: purple;
+    color: whitesmoke;
 }
-.h3 {
+.friend {
     text-transform: uppercase;
 }
-.button {
-    background-color: blueviolet;
+button {
+    background-color: purple;
     color: whitesmoke;
+}
+h3  {
+    text-align: center;
 }
